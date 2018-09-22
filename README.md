@@ -2,4 +2,4 @@
 1st program hello world
 hi
 i am ganesh
-trying my 1st program in github
+trying my understanding on the pull request
